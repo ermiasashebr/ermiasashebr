@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ermiasashebr
-- 👀 I’m interested in Networking and Software Developement
-- 🌱 I’m currently working on CCNA administration and front/back-end web developement
-- 💞️ I’m looking to collaborate on any CCNA projects
+- 🌱 I’m currently working as a java software developer with the Spring boot framework.
+- 💞️ I’m looking to collaborate on any Spring boot or CCNA projects
 - 📫 How to reach me ==> jermayah7@gmail.com
 
 <!---
